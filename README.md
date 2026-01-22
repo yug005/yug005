@@ -1,92 +1,38 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Yug Arora" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:22d3ee&height=220&section=header&text=Yug%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h3 align="center">
-Java & Web Developer • India • Open to Internships
+Java • Web • Systems
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yug-arora-2475b331a/">LinkedIn</a>
-  ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
-  ·
-  <a href="https://leetcode.com/u/Yug_Arora/">LeetCode</a>
+  <a href="https://www.linkedin.com/in/yug-arora-2475b331a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Yug_Arora/">
+    <img src="https://img.shields.io/badge/LeetCode-22d3ee?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    alt="Profile views" 
-    src="https://komarev.com/ghpvc/?username=yug005&color=0ea5e9&style=flat" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=yug005&label=views&color=0ea5e9&style=flat-square" />
 </p>
 
 ---
 
-## About me
-
-I’m **Yug Arora**, a computer science student focused on building strong  
-**problem-solving skills through Data Structures & Algorithms in Java** and  
-developing **clean, modern web interfaces**.
-
-- Core focus: **Java, DSA, OOP**
-- Web: **HTML, CSS, JavaScript, React (learning)**
-- Strong interest in system thinking and code clarity
-- Hackathon participant (**2×**)
-
-I believe in **strong fundamentals, readable code, and consistent practice**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Java-centric+Developer;CS+Fundamentals+%7C+System+Thinking;Clean+Code+%7C+Strong+Logic+%7C+Consistency" />
+</p>
 
 ---
 
-## Tech stack (what I actually use)
+## 🧠 What I Do
 
-**Languages**
-- Java  
-- JavaScript  
-
-**Web**
-- HTML  
-- CSS  
-- React (learning)
-
-**Tools**
-- Git & GitHub  
-- VS Code  
-- Linux (basics)
-
----
-
-## Featured project
-
-### 🧠 OS Simulator (Java)
-A modular simulator implementing core operating system algorithms such as:
-- CPU scheduling
-- Memory management
-- Paging
-- Disk scheduling  
-
-Built with focus on **clear logic, modular design, and CS fundamentals**.
-
-🔗 Repo: https://github.com/yug005/OS_simulator
-
----
-
-## Coding practice
-
-- **LeetCode:** https://leetcode.com/u/Yug_Arora/  
-  Focused on consistency and strengthening algorithmic thinking.
-
----
-
-## What I’m looking for
-
-- **Internship opportunities** (software / backend / web)
-- **Hackathons & collaborative projects**
-- Environments with strong engineering and learning culture
-
----
-
-## Contact
-
-- 📧 Email: arorayug07@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yug-arora-2475b331a/
+```txt
+Design systems.
+Write structured code.
+Care about correctness, clarity, and fundamentals.
