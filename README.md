@@ -91,3 +91,4 @@ Repo: https://github.com/yug005/OS_simulator
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:8b5cf6&height=5&section=footer" alt="Footer" />
 </p>
+
