@@ -57,26 +57,6 @@ I approach software with attention to clarity, correctness, and maintainability.
 
 ---
 
-## Featured Project
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yug005&repo=OS_simulator&theme=tokyonight" alt="OS Simulator" />
-</p>
-
-**OS Simulator (Java)**
-
-A modular simulator implementing core operating system algorithms:
-- CPU Scheduling
-- Memory Management
-- Paging
-- Disk Scheduling
-
-Built with focus on modularity, algorithmic clarity, and CS correctness.
-
-Repo: https://github.com/yug005/OS_simulator
-
----
-
 ## Problem Solving
 
 <p align="center">
@@ -90,8 +70,8 @@ Repo: https://github.com/yug005/OS_simulator
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yug005&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" alt="Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug005&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yug005&show_icons=true&theme=dark&hide_title=true" alt="Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug005&layout=compact&theme=dark&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
