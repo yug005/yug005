@@ -77,6 +77,25 @@ I approach software with attention to clarity, correctness, and maintainability.
 
 
 ---
+## Featured Project
+
+### HealthTech Appointment Booking System (Backend – Spring Boot)
+
+A backend system for managing users, doctors, and appointment scheduling in a health-tech domain.
+
+**Key highlights:**
+- Built using **Java & Spring Boot**
+- RESTful APIs with **Controller–Service–Repository** architecture
+- **JWT-based authentication** and role-based access control
+- **PostgreSQL** with transactional consistency
+- Handled **concurrent appointment booking** to prevent double-booking
+- Applied clean code practices and modular design
+
+🔗 Repository: https://github.com/yug005/HEALTH_TECH
+
+---
+
+
 
 
 
