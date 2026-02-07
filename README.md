@@ -42,7 +42,7 @@ I approach software with attention to clarity, correctness, and maintainability.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,postgres,mongodb,git,github,linux&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,spring,postgres,mongodb,maven,git,github,linux&theme=dark" alt="Skills" />
 </p>
 
 **Languages:** Java, JavaScript
@@ -50,6 +50,8 @@ I approach software with attention to clarity, correctness, and maintainability.
 **Web:** HTML, CSS, React
 
 **Backend:** Node.js, Express
+
+**Java Frameworks:** Spring Boot, Spring Framework, Maven, Hibernate
 
 **Databases:** PostgreSQL, MongoDB
 
