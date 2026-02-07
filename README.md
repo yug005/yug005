@@ -77,7 +77,7 @@ I approach software with attention to clarity, correctness, and maintainability.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yug005&theme=radical" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=yug005&theme=dark" alt="Streak" />
 </p>
 
 <p align="center">
