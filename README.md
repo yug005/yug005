@@ -77,23 +77,45 @@ I approach software with attention to clarity, correctness, and maintainability.
 
 
 ---
-## Featured Project
+## Featured Projects
 
-### HealthTech Appointment Booking System (Backend – Spring Boot)
+### HealthTech Appointment Booking System  
+**Backend Application – Java & Spring Boot**
 
-A backend system for managing users, doctors, and appointment scheduling in a health-tech domain.
+A backend system designed to manage users, doctors, and appointment scheduling in a health-tech domain.
 
 **Key highlights:**
 - Built using **Java & Spring Boot**
-- RESTful APIs with **Controller–Service–Repository** architecture
+- RESTful APIs following **Controller–Service–Repository** architecture
 - **JWT-based authentication** and role-based access control
-- **PostgreSQL** with transactional consistency
-- Handled **concurrent appointment booking** to prevent double-booking
-- Applied clean code practices and modular design
+- **PostgreSQL** for relational data modeling
+- Applied **transaction management** to maintain data consistency
+- Handled **concurrent appointment booking** scenarios to prevent double-booking
+- Focus on clean, modular, and maintainable backend design
 
 🔗 Repository: https://github.com/yug005/HEALTH_TECH
 
 ---
+
+### Color Clash Multiplayer (CCM)  
+**Real-Time Multiplayer Backend – Node.js**
+
+A real-time multiplayer game backend focused on low-latency communication and session management.
+
+**Key highlights:**
+- Backend built using **Node.js & Express**
+- **WebSocket-based real-time communication**
+- Designed REST APIs for game initialization, player actions, and session flow
+- Implemented **JWT-based authentication** for player identity
+- Managed in-memory game state for fast updates
+- Handled multiple concurrent players and turn-based logic
+- Deployed and tested in a production environment
+
+🔗 Repository: https://github.com/yug005/CCM
+---
+
+
+
 
 
 
