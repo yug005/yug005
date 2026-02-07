@@ -58,6 +58,22 @@ I approach software with attention to clarity, correctness, and maintainability.
 **Tools:** Git, GitHub, Linux
 
 ---
+## GitHub Statistics
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=yug005&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true"
+       alt="GitHub Stats" />
+</p>
+
+---
+## Top Languages
+<p align="center">
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug005&layout=compact&theme=tokyonight&hide_progress=true"
+       alt="Top Languages" />
+</p>
+
+---
 
 ## GitHub Streak
 
