@@ -70,12 +70,12 @@ I approach software with attention to clarity, correctness, and maintainability.
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yug005&show_icons=true&theme=dark&hide_title=true" alt="Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug005&layout=compact&theme=dark&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yug005&theme=dark" alt="Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug005&theme=dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yug005&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=yug005&theme=dark" alt="Streak" />
 </p>
 
 <p align="center">
