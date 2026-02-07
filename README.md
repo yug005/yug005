@@ -76,11 +76,14 @@ I approach software with attention to clarity, correctness, and maintainability.
 --- -->
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yug005&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yug005&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
+
+---
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yug005&layout=compact&theme=tokyonight&hide_progress=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yug005&layout=compact&theme=tokyonight&hide_progress=true)
+
 
 ---
 
