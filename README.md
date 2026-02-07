@@ -74,9 +74,7 @@ I approach software with attention to clarity, correctness, and maintainability.
 </p>
 
 --- -->
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yug005&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
 
 ---
 
@@ -91,9 +89,12 @@ I approach software with attention to clarity, correctness, and maintainability.
 
 ## GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/yug005?style=flat)
-![Stars](https://img.shields.io/github/stars/yug005?style=flat)
-![Repos](https://img.shields.io/github/repo-size/yug005/OS_simulator)
+![Followers](https://img.shields.io/github/followers/yug005?style=flat-square)
+![Stars](https://img.shields.io/github/stars/yug005?style=flat-square)
+![Public Repos](https://img.shields.io/github/repo-count/yug005?style=flat-square)
+![Issues](https://img.shields.io/github/issues/yug005?style=flat-square)
+![PRs](https://img.shields.io/github/pull-requests/yug005?style=flat-square)
+![Commits](https://img.shields.io/github/last-commit/yug005?style=flat-square)
 
 ---
 
