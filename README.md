@@ -87,15 +87,14 @@ I approach software with attention to clarity, correctness, and maintainability.
 
 ---
 
-## GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yug005&theme=dark" alt="Streak" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:8b5cf6&height=5&section=footer" alt="Footer" />
-</p>
+## GitHub Stats
+
+![Followers](https://img.shields.io/github/followers/yug005?style=flat)
+![Stars](https://img.shields.io/github/stars/yug005?style=flat)
+![Repos](https://img.shields.io/github/repo-size/yug005/OS_simulator)
+
 ---
 
 ## Contribution Snake
